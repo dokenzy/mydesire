@@ -5,6 +5,11 @@
  - Python3만 지원!
  - 글: 백범김구선생의 글 중 '나의 소원'(http://kimkoo.or.kr/02diary/sub.asp?pagecode=m02s02t01b)
 
+## 설치
+ ```
+ pip install mydesire
+ ```
+
 ## 사용법
  ```python
 import mydesire
