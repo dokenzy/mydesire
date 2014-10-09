@@ -4,7 +4,6 @@
  - 한국어 Lorem ipsum
  - Python3만 지원!
  - 글: 백범김구선생의 글 중 '나의 소원'(http://kimkoo.or.kr/02diary/sub.asp?pagecode=m02s02t01b)
- - 문장 및 단어 추출: konlpy(http://konlpy.org/en/latest/)
 
 ## 사용법
  ```python
